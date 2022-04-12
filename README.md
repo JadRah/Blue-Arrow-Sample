@@ -1,3 +1,9 @@
+1- Create DB in php myadmin (bluearrowsdb) <br>
+2- Migration DB ( php artisan migrate:refresh --seed ) <br>
+3- Run Application ( php artisan serve ) <br>
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
